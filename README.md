@@ -9,6 +9,8 @@ Built as an internship-ready project demonstrating end-to-end ML workflow: data 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+**INTERN ID:** `CITS3874`
+
 ---
 
 ## 📖 Project Overview
