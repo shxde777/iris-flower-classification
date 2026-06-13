@@ -101,24 +101,9 @@ iris-flower-classification/
 ├── README.md              # Project documentation (this file)
 ├── .gitignore             # Git ignore rules
 │
-├── model/
-│   └── iris_model.pkl     # Trained model (auto-generated)
-│
-├── assets/                # Static assets (images, icons)
-└── screenshots/           # App screenshots for README
+└── model/
+    └── iris_model.pkl     # Trained model (auto-generated)
 ```
-
----
-
-## 📸 Screenshots
-
-> Take screenshots after running the app and place them in the `screenshots/` folder.
-
-| View | Description |
-|------|-------------|
-| Home | Hero banner with dataset overview cards |
-| Prediction | Species result card with confidence score |
-| Breakdown | Per-species confidence bars + feature importance chart |
 
 ---
 
